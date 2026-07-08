@@ -15,7 +15,6 @@ def multiply(a, b):
 def greet(name):
     return f"Hello, {name}! This build ran successfully done."
 
-
 if __name__ == "__main__":
     print(greet("Jenkins"))
     print(f"2 + 3 = {add(2, 3)}")
