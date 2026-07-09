@@ -12,7 +12,7 @@ def multiply(a, b):
     return a * b
 
 
-def greet(name):
+#def greet(name):
     return f"Hello, {name}! This build ran successfully done."
 
 if __name__ == "__main__":
